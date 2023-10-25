@@ -1,0 +1,80 @@
+body {
+    background-color: #f2f2f2;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+a {
+    color: #FF0000
+}
+
+h2 {
+    color: #FF0000;
+    font-weight: bold;
+    padding: 0%;
+    margin: 0%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+
+}
+
+th {
+    padding: 8px;
+    text-align: center;
+    border: none;
+}
+
+td {
+    padding: 8px;
+    text-align: left;
+    border: none;
+
+}
+
+.black {
+    background-color: #000 !important;
+    color: #fff
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+    border: none;
+}
+
+tr:nth-child(odd) {
+    background-color: #ffffff;
+    border: none;
+}
+
+section {
+    margin: 3rem 15rem;
+}
+.image{
+    background-color: black;
+    color: #fff;
+    border-radius: 5%;
+    padding: 3rem;
+    
+}
+img {
+    width: 100%;
+
+}
+.protocole{
+    color: darkmagenta;
+    border: 1px dashed darkmagenta;
+    padding:2rem;
+}
