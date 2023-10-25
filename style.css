@@ -64,6 +64,7 @@ section {
 }
 .image{
     background-color: black;
+    border: solid 3px #FF0000;
     color: #fff;
     border-radius: 5%;
     padding: 3rem;
